@@ -4,7 +4,7 @@ Credit Risk Prediction Project
 Credit Risk Modelling
 🔗 Live App:
 
-👉 https://ml-project-credit-risk-modeling-manoj.streamlit.app/
+👉 https://ml-project-credit-risk-modeling-piyush.streamlit.app/
 
 A complete end-to-end Credit Risk Prediction System built using Machine Learning and Streamlit.
 The system predicts default probability, generates a credit score (300–900), and provides a credit rating using a trained ML model.
@@ -211,7 +211,7 @@ Streamlit Cloud
 
 # 🛠️ Running the Project Locally
 ## Step 1: Clone the repo
-git clone https://github.com/<your-username>/ml-project-credit-risk-modeling.git
+git clone https://github.com/piyushpanwar/ml-project-credit-risk-modeling.git
 cd ml-project-credit-risk-modeling
 
 ## Step 2: Create virtual environment
@@ -226,10 +226,10 @@ pip install -r requirements.txt
 ## Step 4: Run the app
 streamlit run main.py
 
-# 👨‍💻 Author: Manoj A A
+# 👨‍💻 Author: Piyush Panwar
 
 Passionate Data Science & ML Engineer
 💼 Building predictive systems across Finance, Healthcare, and Real-time ML
-🔗 GitHub: https://github.com/manojaa2003
+🔗 GitHub: https://github.com/piyushpanwar
 
-🔗 LinkedIn: https://www.linkedin.com/in/manoj-a-a-659879293/
+🔗 LinkedIn: https://www.linkedin.com/in/piyushpanwar/
