@@ -4,7 +4,7 @@ Credit Risk Prediction Project
 Credit Risk Modelling
 🔗 Live App:
 
-👉 https://ml-project-credit-risk-modeling-piyush.streamlit.app/
+👉 https://apppanel-jh4uxzhsd6fbubt5nnddkt.streamlit.app/
 
 A complete end-to-end Credit Risk Prediction System built using Machine Learning and Streamlit.
 The system predicts default probability, generates a credit score (300–900), and provides a credit rating using a trained ML model.
